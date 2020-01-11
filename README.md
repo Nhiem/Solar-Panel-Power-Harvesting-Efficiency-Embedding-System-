@@ -6,7 +6,7 @@ there still need to improve in Lithium battery Design for development in the fut
 
 Development of Embedding system IOT 
 
-# IoT Weather Station With Adafruit INA219 ESP32
+# IoT System With Adafruit INA219 ESP32
 - Keyword: ESP32, INA219, Solar power Mangager Drobot
 - Devices: ESP32
 
